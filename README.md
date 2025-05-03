@@ -7,7 +7,7 @@
 
 ## **🚀 About Me**: 
 
-I am a goal-driven, passionate Software Engineer with industry experience in building data-driven applications. I am passionate about designing and optimising software solutions that tackle real-world challenges and enhance business operations. With a knack for teamwork, I collaborate effectively with others to create intelligent systems that make a solid impact. 
+I am a 3rd-year EEE Student, a goal-driven, passionate Software Engineer with industry experience building data-driven applications. I am passionate about designing and optimising software solutions that tackle real-world challenges and enhance business operations. With a knack for teamwork, I collaborate effectively with others to create intelligent systems that make a solid impact. 
 
 
 
