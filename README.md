@@ -1,13 +1,14 @@
-## **Greetings! I am Ifenaike Elias** 👋
-**Software Engineering || Data Science || Machine Learning & AI || Full stack Developer**
+*The worst enemy to creativity is self-doubt...*
 
-***
-### **Welcome to Elias's GitHub!** 
-
+### **Hello!** 👋
+  *Ready to explore?*
+  
+## **I am Ifenaike Ifenaike Elias**
+  *And welcome to my world...*
 
 ## **🚀 About Me**: 
 
-I am a 3rd-year EEE Student, a goal-driven, passionate Software Engineer with industry experience building data-driven applications. I am passionate about designing and optimising software solutions that tackle real-world challenges and enhance business operations. As a continuous learner who enjoys teamwork, I collaborate effectively with others to create intelligent systems that make a solid impact. Actively seeking Internships to learn and broaden my expertise while contributing to impactful projects. 
+Elias is a 3rd-year EEE Student and a Software Engineer with industry experience in building data-driven applications. He is passionate about building adaptive systems, ranging from distributed to scalable and Machine learning solutions that tackle real-world challenges. He is a dedicated and continuous learner who excels at teamwork, collaborating effectively with others to solve complex problems. Elias is actively seeking opportunities to grow and broaden his expertise. These include Internships and opportunities to contribute to impactful projects. 
 
 
 
