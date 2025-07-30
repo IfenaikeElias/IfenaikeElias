@@ -5,7 +5,7 @@
 
 ## **🚀 About Me**: 
 
-Elias is a 3rd-year EEE Student 🎓 and a Software Engineer with industry experience in building data-driven applications.
+Elias is a 3rd-year Engineering Student 🎓 and a Software Engineer with industry experience in building data-driven applications.
 - Passionate about building adaptive systems, ranging from distributed to scalable and Machine learning solutions that tackle real-world challenges.
 - Dedicated and continuous learner who excels at teamwork, collaborating effectively with others to solve complex problems.
 - Actively seeking opportunities to grow and broaden his expertise, including Internships and opportunities to contribute to impactful projects. 
