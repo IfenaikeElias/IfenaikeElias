@@ -14,7 +14,7 @@ Elias is a 3rd-year **Engineering Student** 🎓 and **Software Engineer** with 
    - Proficient in **Go**, **Python**, **C/C++** and **Bash Scripting**
    - Familiars: **HTML**, **CSS** and **Javascript**
    - Strong understanding of **Data Structures and algorithms**, **Linux** and **Operating Systems**
-   - Databases: Experienced in **PostgreSQL** (schema design, querying, and data wrangling).
+   - Databases and ORM: Experienced in **PostgreSQL** (schema design, querying, and data wrangling), **SQLAlchemy** and **Records**.
    - Containerisation and Orchestration with **Docker**, **Prefect**, and **MLFlow**.
    - Cloud Technologies: **AWS** (MLStudio, SageMaker, Bedrock, S3, EC2) and **GCP**.
    - **Effective communication**, **Team player**, and **Strong problem-solving capabilities**.
