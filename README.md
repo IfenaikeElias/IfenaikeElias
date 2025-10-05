@@ -1,6 +1,6 @@
 *The worst enemy to creativity is self-doubt...*
 
-"I, Ifenaike Elias, pledge that as from October 5 2025, I'll learn new things and contribute to GitHub every day till October 5 2026" 
+"I, Ifenaike Elias, pledge that as from October 5 2025, I'll learn new things and contribute to GitHub every day and drop at least one Medium article per month till October 5 2026. So help me God and PHCN." 
 ## **Hi there!, I am Ifenaike Elias 👋🏾**
   *Ready to explore?*
 
