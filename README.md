@@ -12,7 +12,7 @@ Elias is a 3rd-year **Engineering Student** 🎓 and **Software Engineer** with 
 - Actively seeking opportunities to grow and broaden his expertise, including Internships and opportunities to contribute to impactful projects. 
 
 ## **Core Skills and Technologies**: 
-   - Proficient in **Go**, **Python**, **C**, **C++** and **Bash Scripting**
+   - Proficient in **Go**, **Python**, **C**, **C++**, **kotlin** and **Bash Scripting**
    - Familiars: **HTML**, **CSS** and **Javascript**
    - Strong understanding of **Data Structures and algorithms**, **Linux** and **Operating Systems**
    - Databases and ORM: Experienced in **PostgreSQL** (schema design, querying, and data wrangling), **SQLAlchemy** and **Records**.
