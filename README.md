@@ -21,7 +21,7 @@ Elias is a 3rd-year **Engineering Student** 🎓 and **Software Engineer** with 
    - **Effective communication**, **Team player**, and **Strong problem-solving capabilities**.
 
 ###  **Let’s Connect!**
-   🌐 [LinkedIn](https://www.linkedin.com/in/elias-ifenaike-077369270/) 📥 [Email](elias.ifenaike@gmail.com) ✍🏽 [Medium](https://medium.com/@elias.ifenaike)
+   🌐 [LinkedIn](https://www.linkedin.com/in/elias-ifenaike-077369270/) 📥 [Email](elias.ifenaike@gmail.com)
 
 
 
