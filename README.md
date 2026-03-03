@@ -2,7 +2,7 @@
   *Richard Feynman*
               
 
-*The worst enemy to creativity is self-doubt...*
+
 
 
 ## **Hi there!, I'm Elias 👋🏾**
