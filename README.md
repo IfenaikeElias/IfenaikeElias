@@ -1,12 +1,15 @@
+#### **What I cannot create, I do not Understand**
+                     *Richard Feynman*
+
 *The worst enemy to creativity is self-doubt...*
 
-"I, Ifenaike Elias, pledge that as from October 5 2025, I'll learn new things and contribute to GitHub every week and drop at least one Medium article per month till October 5 2026. So help me God.... and PHCN." 
-## **Hi there!, I am Ifenaike Elias 👋🏾**
+
+## **Hi there!, I'm Elias 👋🏾**
   *Ready to explore?*
 
 ## **🚀 About Me**: 
 
-Elias is a 3rd-year **Engineering Student** 🎓 and **Software Engineer** with industry experience in building data-driven applications.
+Elias is a 4th-year **Engineering Student** 🎓 and **Software Engineer** and incoming Production Engineering Intern at Meta with industry experience in building data-driven applications.
 - Passionate about building adaptive systems, ranging from distributed to scalable and Machine learning solutions that tackle real-world challenges.
 - Dedicated and continuous learner who excels at teamwork, collaborating effectively with others to solve complex problems.
 - Actively seeking opportunities to grow and broaden his expertise, including Internships and opportunities to contribute to impactful projects. 
@@ -15,7 +18,7 @@ Elias is a 3rd-year **Engineering Student** 🎓 and **Software Engineer** with 
    - Proficient in **Go**, **Python**, **C**, **C++**, **kotlin** and **Bash Scripting**
    - Familiars: **HTML**, **CSS** and **Javascript**
    - Strong understanding of **Data Structures and algorithms**, **Linux** and **Operating Systems**
-   - Databases and ORM: Experienced in **PostgreSQL** (schema design, querying, and data wrangling), **SQLAlchemy** and **Records**.
+   - Databases and ORM: Experienced in **PostgreSQL** (schema design, querying, and data wrangling), **MongoDB**, **SQLAlchemy**
    - Containerisation and Orchestration with **Docker**, **Prefect**, and **MLFlow**.
    - Cloud Technologies: **AWS** (MLStudio, SageMaker, Bedrock, S3, EC2) and **GCP**.
    - **Effective communication**, **Team player**, and **Strong problem-solving capabilities**.
